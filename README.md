@@ -1,2 +1,2 @@
-# C-Programs-Semester-1
-“A collection of my C programs from college — simple, organized and growing with me.”
+# C-Programs-Sem-1
+“A collection of my C programs from college — simple and organized”
